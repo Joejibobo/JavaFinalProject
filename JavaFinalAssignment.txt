@@ -1,0 +1,5 @@
+1: The first choice you get to make 
+2: The second choice you get to make 
+0: The third choice you get to make 
+you ARE JEFF: The first message confirming your choice 
+'sa duuuuuude.: The second message confirming you choice /nnull: The third message confirming you choice 
